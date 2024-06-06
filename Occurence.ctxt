@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Occurence
+comment1.params=idx\ s\ ch
+comment1.target=void\ caloccur(int,\ java.lang.String,\ char)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
